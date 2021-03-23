@@ -1,0 +1,1654 @@
+transformer	达驰
+transformer	横剪
+transformer	拆封
+transformer	壳式
+transformer	卸扣
+transformer	压紧 装置
+transformer	加强 板
+transformer	罗茨 泵
+transformer	额定 容量
+transformer	断流 器
+transformer	封油板
+transformer	网侧 引线
+transformer	油 浸式
+transformer	梯车
+transformer	主 绝缘
+transformer	工作 流
+transformer	涌流
+transformer	硅钢片
+transformer	穿配
+transformer	加强 铁
+transformer	电位移
+transformer	白布 带
+transformer	法兰盘
+transformer	新能源
+transformer	谢毓城
+transformer	撑板
+transformer	图号
+transformer	定位 钉
+transformer	平 垫圈
+transformer	器身
+transformer	有限元
+transformer	铁磁
+transformer	低压 线圈
+transformer	心柱
+transformer	腹板
+transformer	同名 端
+transformer	电桥
+transformer	木锤
+transformer	匝 绝缘
+transformer	定位 销
+transformer	反角 环
+transformer	半 导电 纸
+transformer	半叠
+transformer	扇形 板
+transformer	空载 损耗
+transformer	磁通
+transformer	东北 电网
+transformer	青波
+transformer	盘簧
+transformer	通用件
+transformer	阻抗匹配
+transformer	铜箔
+transformer	加包
+transformer	爬 电
+transformer	自冷
+transformer	整套
+transformer	尖角 放电
+transformer	端部
+transformer	电炉 变压器
+transformer	辐向
+transformer	槽钢
+transformer	剖分
+transformer	钟罩 式
+transformer	铁心 叠片
+transformer	绝缘子
+transformer	汇流 管
+transformer	油 系统
+transformer	绝缘 筒
+transformer	吊梁
+transformer	纸圈
+transformer	压包
+transformer	绝缘纸
+transformer	试装
+transformer	板料
+transformer	纵剪
+transformer	电场 强度
+transformer	储油 柜
+transformer	环氧 玻璃 布板
+transformer	洁净 纸
+transformer	边界条件
+transformer	过电压
+transformer	铜耗
+transformer	滚转 台
+transformer	换位
+transformer	路长柏
+transformer	高 真空
+transformer	六氟化硫
+transformer	调压
+transformer	组合 导线
+transformer	屏蔽 筒
+transformer	冷却器
+transformer	铆接
+transformer	白布
+transformer	瓦楞纸板
+transformer	立绕
+transformer	肢板
+transformer	拉氏 变换
+transformer	浸油
+transformer	端圈
+transformer	热 粘合 带
+transformer	联管
+transformer	对焊
+transformer	风冷
+transformer	华中电网
+transformer	装 成
+transformer	逆止阀
+transformer	无载
+transformer	层压 纸板
+transformer	漆包线
+transformer	相量 图
+transformer	雷电 冲击
+transformer	散热器
+transformer	垫圈
+transformer	环流
+transformer	卧绕
+transformer	大亚湾
+transformer	千斤顶
+transformer	焊缝
+transformer	变压器 油
+transformer	曲面 垫圈
+transformer	麦克斯韦 方程
+transformer	伞齿轮 盒
+transformer	发运
+transformer	中 压 绕组
+transformer	封油
+transformer	下箱
+transformer	芯柱
+transformer	互感器
+transformer	打板
+transformer	漏 磁场
+transformer	联络 单
+transformer	搪锡
+transformer	绕组 温度计
+transformer	螺旋式
+transformer	恒压
+transformer	吊攀
+transformer	人孔
+transformer	消 弧线 圈
+transformer	地屏
+transformer	铜板
+transformer	介电常数
+transformer	氩弧焊
+transformer	温升
+transformer	轴高
+transformer	充氮
+transformer	滤油
+transformer	纸槽
+transformer	右绕 向
+transformer	高 网络 带
+transformer	漏磁
+transformer	材料 代号
+transformer	角环
+transformer	聚氯 联苯
+transformer	断路器
+transformer	散图
+transformer	换 流变
+transformer	相角 差
+transformer	软 连接
+transformer	槽 垫
+transformer	阀厅
+transformer	连续式
+transformer	填充物
+transformer	压板
+transformer	假 铁心
+transformer	三相
+transformer	地 坑
+transformer	安匝 分布
+transformer	秦山
+transformer	油压 升降台
+transformer	高频 焊
+transformer	层式
+transformer	插板 实验
+transformer	接线 端子
+transformer	本图
+transformer	回 打油
+transformer	插入法
+transformer	葛兰 接头
+transformer	主变
+transformer	保护 板
+transformer	矽钢片
+transformer	低碳钢
+transformer	增压泵
+transformer	法兰
+transformer	国家电网
+transformer	委托 单
+transformer	框间
+transformer	压接 接头
+transformer	大杠
+transformer	辫子 线
+transformer	呼吸器
+transformer	断流 阀
+transformer	入炉
+transformer	轴向
+transformer	绕线
+transformer	纸板
+transformer	三峡 机组
+transformer	蝶阀
+transformer	静电 板
+transformer	空载 电流
+transformer	防雨罩
+transformer	埋 弧焊
+transformer	套包
+transformer	压强 表
+transformer	统包
+transformer	密封环
+transformer	残压
+transformer	隔离 变压器
+transformer	箱盖
+transformer	电磁线
+transformer	额定电流
+transformer	乔格线
+transformer	首头
+transformer	出线 盒
+transformer	顺特
+transformer	销钉
+transformer	有限元法
+transformer	波纹管
+transformer	球阀
+transformer	末头
+transformer	上 夹件
+transformer	天威保变
+transformer	墨线
+transformer	低压 绕组
+transformer	极坐标
+transformer	叠积
+transformer	拔包
+transformer	沿面 放电
+transformer	换位 导线
+transformer	气相 干燥
+transformer	干式
+transformer	绑扎 带
+transformer	牛角 垫块
+transformer	消弧
+transformer	换流 变压器
+transformer	厂变
+transformer	最大 似然法
+transformer	换流
+transformer	收缩 带
+transformer	归纳法
+transformer	对 正
+transformer	洁净度
+transformer	西安 西电
+transformer	极性 反转
+transformer	叠铁
+transformer	额定 电压
+transformer	导销
+transformer	适配
+transformer	拉板
+transformer	铝 屏蔽
+transformer	集气 盒
+transformer	衡变
+transformer	电介质
+transformer	特变
+transformer	负载 损耗
+transformer	试漏
+transformer	均 压球
+transformer	纸筒
+transformer	层压 纸
+transformer	油压
+transformer	箱 沿
+transformer	盖板
+transformer	间距 环
+transformer	机械 混合物
+transformer	可调式 绕线 模
+transformer	补件
+transformer	拉普拉斯 变换
+transformer	真空计
+transformer	焊接件
+transformer	套 焊
+transformer	铜棒
+transformer	锥销
+transformer	心式 变压器
+transformer	相线
+transformer	破 真空
+transformer	控制箱
+transformer	纠结 式
+transformer	绕 向
+transformer	沈阳 变压器 研究院
+transformer	聚酰芳胺
+transformer	补环
+transformer	组式 变压器
+transformer	磁 屏蔽
+transformer	燕尾
+transformer	丹尼森
+transformer	盒尺
+transformer	局部 放电
+transformer	胶木 螺杆
+transformer	电磁感应 定律
+transformer	旁柱
+transformer	铁 轭 绝缘
+transformer	天 车
+transformer	屏蔽 罩
+transformer	朱英浩
+transformer	绝缘纸 筒
+transformer	面漆
+transformer	箱皮
+transformer	华鹏
+transformer	常变
+transformer	气体 保护 焊
+transformer	游离 炭
+transformer	导线 夹
+transformer	电压 调整 率
+transformer	气体 继电器
+transformer	芯式
+transformer	高压 线圈
+transformer	插铁
+transformer	旁 轭 屏蔽
+transformer	油枕
+transformer	闸阀
+transformer	卡尺
+transformer	打底
+transformer	围屏
+transformer	裸线
+transformer	网侧
+transformer	搭接
+transformer	安匝
+transformer	笛卡尔 坐标
+transformer	热缩管
+transformer	葛洲坝
+transformer	阻波
+transformer	拱顶
+transformer	升层式
+transformer	变径
+transformer	径向
+transformer	卷 铁心
+transformer	伞形
+transformer	圈 铁心
+transformer	供电所
+transformer	油道
+transformer	夹紧 梁
+transformer	真空 干燥
+transformer	垫条
+transformer	电抗器
+transformer	速动 油压 继电器
+transformer	热点
+transformer	定位 板
+transformer	天威
+transformer	铭牌
+transformer	小 轭
+transformer	局放
+transformer	绝缘 环
+transformer	项号
+transformer	导油盒
+transformer	角钢
+transformer	水冷
+transformer	电密
+transformer	联接 组
+transformer	分瓣
+transformer	砂带 机
+transformer	绕线机
+transformer	线规
+transformer	集肤 效应
+transformer	电磁力
+transformer	底漆
+transformer	压装
+transformer	压力 释放器
+transformer	主极
+transformer	方轴
+transformer	洛氏 系数
+transformer	热电偶
+transformer	线 坠
+transformer	相位差
+transformer	端子
+transformer	高压 绕组
+transformer	筒 包
+transformer	气隙
+transformer	纵 绝缘
+transformer	花盘
+transformer	配剪
+transformer	二次 侧
+transformer	改 版图
+transformer	封油环
+transformer	麦头
+transformer	垫块
+transformer	反饼
+transformer	强 油孔
+transformer	拱顶 式
+transformer	淋油
+transformer	小浪底
+transformer	分接 开关
+transformer	镇流
+transformer	撑条
+transformer	磁滞
+transformer	正角环
+transformer	绕线 模
+transformer	旁 轭
+transformer	强油
+transformer	层压 木
+transformer	滤油机
+transformer	变电站
+transformer	吊具
+transformer	铜焊
+transformer	引线 夹
+transformer	配电站
+transformer	阀侧
+transformer	接线板
+transformer	分接 引线
+transformer	网包线
+transformer	零序
+transformer	圆筒 式
+transformer	左绕 向
+transformer	韦德曼
+transformer	绝缘漆
+transformer	南方电网
+transformer	汇控箱
+transformer	导电 杆
+transformer	放电 点
+transformer	保变
+transformer	夹件
+transformer	电压 变化率
+transformer	分 接线
+transformer	升高 座
+transformer	对角
+transformer	纸包
+transformer	热油循环
+transformer	关键 工序
+transformer	模拟法
+transformer	矢量
+transformer	波纹 式
+transformer	有载 开关
+transformer	开关 传动轴
+transformer	西变
+transformer	单相
+transformer	磷 铜焊
+transformer	尹克宁
+transformer	油面 温度计
+transformer	层压
+transformer	铁心
+transformer	球极
+transformer	主极 铁
+transformer	张宜倜
+transformer	铝箔
+transformer	铁 轭
+transformer	吸湿 器
+transformer	皮 拉尼
+transformer	托板
+transformer	钱江
+transformer	接线片
+transformer	平顶 式
+transformer	注油
+transformer	环氧
+transformer	紧包 带
+transformer	导 油管
+transformer	换流站
+transformer	相向
+transformer	阻抗 电压
+transformer	酚醛
+transformer	拉带
+transformer	并联 支路 数
+transformer	图解法
+transformer	间隙 环
+transformer	避雷器
+transformer	槽 盒
+transformer	零序 阻抗
+transformer	西门子
+transformer	叠片
+transformer	碳 精纸
+transformer	碟 簧
+transformer	铁耗
+transformer	卷料
+transformer	铜带
+transformer	止退 垫圈
+transformer	正饼
+transformer	鸽尾
+transformer	整体 套装
+transformer	弯头
+transformer	总 装配
+transformer	杂散
+transformer	吊罩
+transformer	压钉
+transformer	华北 电网
+transformer	麦式 计
+transformer	对接
+transformer	沈变
+transformer	裕度
+transformer	特变 电工
+transformer	渐开线
+transformer	西北 电网
+transformer	压力 释放 阀
+transformer	端子 箱
+transformer	结点
+transformer	导电 排
+transformer	屏蔽 墙
+transformer	中 压 线圈
+transformer	螺柱
+transformer	有载
+transformer	垫板
+transformer	绑扎
+transformer	下 夹件
+transformer	一次 侧
+transformer	静电 环
+transformer	油隙
+transformer	桶 式
+transformer	磁密
+transformer	魏 德曼
+transformer	皱纹纸
+transformer	小辫
+transformer	定位 孔
+transformer	摇表
+transformer	复 平面
+transformer	铜网
+transformer	线饼
+transformer	梯形 顶
+transformer	油位 计
+transformer	自 耦
+transformer	卡具
+transformer	扁线
+transformer	定尺
+transformer	闪点
+mechanic	双 滑块 机构
+mechanic	中心 距
+mechanic	大径
+mechanic	设计 变量
+mechanic	双头 螺柱
+mechanic	十字 槽 沉头 螺钉
+mechanic	动力学
+mechanic	齿轮 变速箱
+mechanic	井架 提升机
+mechanic	阶梯 轴
+mechanic	定形 尺寸
+mechanic	曲面 从动件
+mechanic	过盈 配合
+mechanic	变速箱 体
+mechanic	调速 电动机
+mechanic	许用 应力
+mechanic	凸轮 理论 廓线
+mechanic	铁 拉杆
+mechanic	串联式 组合
+mechanic	螺距
+mechanic	回风隅角
+mechanic	起模 斜度
+mechanic	轴承 套圈
+mechanic	轴向 当量 动 载荷
+mechanic	行星 齿轮 装置
+mechanic	固定 构件
+mechanic	矿井 通风 系统 图
+mechanic	数控 精车
+mechanic	摩擦
+mechanic	优化 设计
+mechanic	阻抗 力
+mechanic	松边
+mechanic	替代 机构
+mechanic	铸造
+mechanic	啮合 点
+mechanic	局部 视图
+mechanic	导轨
+mechanic	焊角 尺寸
+mechanic	轨迹 发生器
+mechanic	齿式 棘轮 机构
+mechanic	轴向 齿廓
+mechanic	交错 轴斜 齿轮
+mechanic	锥面 包络 圆柱 蜗杆
+mechanic	熔核 直径
+mechanic	应力 幅
+mechanic	转动 副
+mechanic	附墙 附墙 框
+mechanic	下隅角
+mechanic	机构 分析
+mechanic	主动 齿轮
+mechanic	磨粒
+mechanic	残余 应力
+mechanic	平衡 转速
+mechanic	传动带
+mechanic	掘进 一队
+mechanic	轴承 衬
+mechanic	蜗轮
+mechanic	平面 机构
+mechanic	弹性 滑动
+mechanic	防振 装置
+mechanic	偏置 曲柄 滑块 机构
+mechanic	定轴轮系
+mechanic	内 圆 磨削
+mechanic	开口销
+mechanic	槽 凸轮
+mechanic	截面
+mechanic	稳定性
+mechanic	偏置 式
+mechanic	零件图
+mechanic	刀尖
+mechanic	回 风 上山
+mechanic	斜二轴测 图
+mechanic	常用 机构
+mechanic	张紧 轮
+mechanic	工步
+mechanic	精加工
+mechanic	双 万向 联轴节
+mechanic	细点 画线
+mechanic	小齿轮
+mechanic	运动 倒置
+mechanic	双 曲柄 机构
+mechanic	广义 机构
+mechanic	正火
+mechanic	法面 压力 角
+mechanic	功能分析 设计
+mechanic	节圆 直径
+mechanic	基本 偏差
+mechanic	力角
+mechanic	法面
+mechanic	轴向 分力
+mechanic	齿轮 齿条
+mechanic	双向 推力 轴承
+mechanic	从动 带轮
+mechanic	往复 移动
+mechanic	外螺纹
+mechanic	碟形 弹簧
+mechanic	电火花 加工
+mechanic	现场 平衡
+mechanic	圆形 齿轮
+mechanic	机构 平衡
+mechanic	有效 花键 长度
+mechanic	圆带
+mechanic	背对背 安装
+mechanic	棘爪
+mechanic	全齿 高
+mechanic	急回 运动
+mechanic	额定 寿命
+mechanic	驱动力
+mechanic	旋向
+mechanic	圆跳动
+mechanic	锥轮
+mechanic	坡口 面 角度
+mechanic	铣刀
+mechanic	大 齿轮
+mechanic	槽 数
+mechanic	渗碳
+mechanic	评价 与 决策
+mechanic	金属 切削
+mechanic	齿轮 齿条 机构
+mechanic	表面 粗糙度
+mechanic	函数 生成
+mechanic	剖视图
+mechanic	驱动 力矩
+mechanic	圆盘 摩擦 离合器
+mechanic	单 万向 联轴节
+mechanic	对称 循环 应力
+mechanic	螺旋 角
+mechanic	虚 约束
+mechanic	圆柱 滚子
+mechanic	等效 构件
+mechanic	偏距 圆
+mechanic	机械 加工余量
+mechanic	动力 润滑
+mechanic	监督 单位
+mechanic	水平 投影面
+mechanic	紧边
+mechanic	前 刀面
+mechanic	螺纹 牙顶线
+mechanic	冠轮
+mechanic	润滑 装置
+mechanic	运动 副
+mechanic	法面 齿 距
+mechanic	凸缘 联轴器
+mechanic	法向齿 距
+mechanic	平衡
+mechanic	圆柱 度
+mechanic	轴向 接触 轴承
+mechanic	技术 系统
+mechanic	螺旋 锥齿轮
+mechanic	赫兹 公式
+mechanic	刚性 冲击
+mechanic	调质
+mechanic	推力 轴承
+mechanic	投影 轴
+mechanic	机械系统
+mechanic	圆锥 滚子
+mechanic	连杆机构
+mechanic	运动 设计
+mechanic	顶升 拆卸
+mechanic	宽度 系列
+mechanic	气动 机构
+mechanic	位姿
+mechanic	其他 常用 机构
+mechanic	前角
+mechanic	小径
+mechanic	平均 应力
+mechanic	安全系数
+mechanic	等效 转动惯量
+mechanic	定位 位置 公差
+mechanic	高速 带
+mechanic	摩擦系数
+mechanic	微动 螺旋 机
+mechanic	投影
+mechanic	节流阀
+mechanic	机构 运动 简图
+mechanic	视图
+mechanic	液压 传动 机构
+mechanic	面 轮廓 度
+mechanic	直角坐标 操作 器
+mechanic	齿条
+mechanic	相对 间隙
+mechanic	子 机构
+mechanic	定向 位置 公差
+mechanic	热处理
+mechanic	基础 机构
+mechanic	采煤 二队
+mechanic	滚子
+mechanic	内齿 圈
+mechanic	变速
+mechanic	静 密封
+mechanic	脆性 材料
+mechanic	切齿 深度
+mechanic	油沟 密封
+mechanic	硬度 转变 区
+mechanic	花键
+mechanic	动 载荷
+mechanic	许用 不平 衡量
+mechanic	表面 传热系数
+mechanic	多列 轴承
+mechanic	中间 平面
+mechanic	内螺纹
+mechanic	牙嵌式 联轴器
+mechanic	滑键
+mechanic	接触 印痕
+mechanic	位移 曲线
+mechanic	柱塞泵
+mechanic	范 成法
+mechanic	车削
+mechanic	标准 齿轮
+mechanic	安全 评估
+mechanic	面锥 顶点 距
+mechanic	矿井 瓦斯
+mechanic	复合 平带
+mechanic	功率
+mechanic	间隙
+mechanic	最少 齿数
+mechanic	车架
+mechanic	滚针
+mechanic	切削 深度
+mechanic	理论 啮合 线
+mechanic	轴向 基本 额定 动 载荷
+mechanic	齿轮 传动 系
+mechanic	剖 切线
+mechanic	双 摇杆 机构
+mechanic	绞刀
+mechanic	电火花 线切割 加工
+mechanic	合成 切削 运动 方向
+mechanic	平行投影 法
+mechanic	原动件
+mechanic	战 金果
+mechanic	垫片 密封
+mechanic	齿根 顶点 距
+mechanic	力偶
+mechanic	有害 阻力
+mechanic	板料 冲压
+mechanic	不 平衡
+mechanic	起始 圆 直径
+mechanic	带式 制动器
+mechanic	开槽 沉头 螺钉
+mechanic	跃度 曲线
+mechanic	极位 夹角
+mechanic	对心 移动 从动件
+mechanic	机架
+mechanic	脉动 无级 变速
+mechanic	退火
+mechanic	冗余 自由度
+mechanic	疲劳极限
+mechanic	正向 运动学
+mechanic	间歇 运动 机构
+mechanic	向心力
+mechanic	动 密封
+mechanic	隐患 地点
+mechanic	有效 拉力
+mechanic	开口 传动
+mechanic	齿轮
+mechanic	调心 球轴承
+mechanic	轴线
+mechanic	公共 约束
+mechanic	轴向 平面
+mechanic	主轴
+mechanic	径向 载荷 系数
+mechanic	校正 平面
+mechanic	基圆
+mechanic	东风 井
+mechanic	分度 圆锥
+mechanic	压缩机
+mechanic	柔轮
+mechanic	连心线
+mechanic	输出 构件
+mechanic	齿根 高
+mechanic	回程
+mechanic	正等轴测 图
+mechanic	径向 接触 轴承
+mechanic	普通 平键
+mechanic	正 平面
+mechanic	半精车
+mechanic	橡胶 弹簧
+mechanic	单向阀
+mechanic	钢丝 软轴
+mechanic	三角形 螺纹
+mechanic	密封 元件
+mechanic	变位 齿轮
+mechanic	短 中心线
+mechanic	进 给 运动
+mechanic	端面 压力 角
+mechanic	滚动 体
+mechanic	输出 功
+mechanic	轴承 高度
+mechanic	运动 构件
+mechanic	不 可见 轮廓线
+mechanic	力多边形
+mechanic	曲柄 存在 条件
+mechanic	机械零件
+mechanic	压模
+mechanic	当量 齿数
+mechanic	坡口 深度
+mechanic	公差 等级
+mechanic	平均 中径
+mechanic	侧隙
+mechanic	不 可见 棱 边线
+mechanic	棘轮
+mechanic	凸轮 机构
+mechanic	非标准 齿轮
+mechanic	轴向 当量 静 载荷
+mechanic	恻 垂线
+mechanic	弹簧
+mechanic	正立 投影面
+mechanic	齿条 插刀
+mechanic	摆动 从动件
+mechanic	零号 图纸
+mechanic	直径 系列
+mechanic	装配 条件
+mechanic	节圆 齿厚
+mechanic	合成 进 给 运动
+mechanic	运转 不 均匀 系数
+mechanic	平面 运动 副
+mechanic	公称 直径
+mechanic	成对安
+mechanic	涡 圈形 盘簧
+mechanic	中径
+mechanic	启动 力矩
+mechanic	节 圆锥
+mechanic	半精 珩磨 内孔
+mechanic	能量 指示 图
+mechanic	中心 投影 法
+mechanic	公差 带
+mechanic	齿 距
+mechanic	分度 圆柱 导程角
+mechanic	承载能力
+mechanic	技术 经济评价
+mechanic	齿 宽
+mechanic	面锥距
+mechanic	球面 渐开线
+mechanic	侧平线
+mechanic	球 坐标 操作 器
+mechanic	施工 电梯
+mechanic	凹面
+mechanic	锥顶
+mechanic	热加工
+mechanic	端面 模数
+mechanic	插齿
+mechanic	单向 推力 轴承
+mechanic	径向 载荷
+mechanic	等速运动 规律
+mechanic	惯性力 平衡
+mechanic	间隙 配合
+mechanic	螺栓
+mechanic	摩擦 力矩
+mechanic	不平 衡量
+mechanic	蜗杆 旋向
+mechanic	环面 蜗杆
+mechanic	可见 轮廓线
+mechanic	摇杆
+mechanic	主动 带轮
+mechanic	齿数
+mechanic	刚度 准则
+mechanic	密封
+mechanic	调心 轴承
+mechanic	转子
+mechanic	渐开线 压力 角
+mechanic	等 效力
+mechanic	齿厚
+mechanic	方箱 法
+mechanic	传动链
+mechanic	速度 波动
+mechanic	应力
+mechanic	正 垂线
+mechanic	变幅 小车 牵引 机构
+mechanic	重合 断面 的 轮廓线
+mechanic	啮出
+mechanic	粗牙 螺纹
+mechanic	电化学 腐蚀
+mechanic	倒角
+mechanic	曲柄
+mechanic	尺寸 系列
+mechanic	铸造 圆角
+mechanic	齿轮 轮坯
+mechanic	轨迹 生成
+mechanic	实际 廓线
+mechanic	轴测 投影
+mechanic	矿井 避灾 路线图
+mechanic	面对面 安装
+mechanic	解析 设计
+mechanic	垂直 载荷
+mechanic	轴肩
+mechanic	安装 维修
+mechanic	圆鼻刀
+mechanic	明细 栏
+mechanic	柔性 自动化
+mechanic	缝 焊缝
+mechanic	法向 直廓 蜗杆
+mechanic	悬架
+mechanic	标准 公差
+mechanic	摩擦学 设计
+mechanic	焊缝 段数
+mechanic	惯性 主失
+mechanic	锯齿形 螺纹
+mechanic	曲柄 摇杆 机构
+mechanic	空气 弹簧
+mechanic	太阳 轮
+mechanic	圆锥 螺旋 扭转 弹簧
+mechanic	运动 失真
+mechanic	绝对 尺寸 系数
+mechanic	惯性 力矩
+mechanic	深沟 球轴承
+mechanic	螺纹 加工
+mechanic	分度 圆 直径
+mechanic	惯性力 完全 平衡
+mechanic	装配图
+mechanic	马耳他 机构
+mechanic	机械 动力学
+mechanic	公 法线
+mechanic	双列 轴承
+mechanic	齿数 比
+mechanic	端面 参数
+mechanic	变速器
+mechanic	传动 角
+mechanic	进 给 方向
+mechanic	砂漏
+mechanic	粗 珩磨 内孔
+mechanic	共轭 凸轮
+mechanic	截交线
+mechanic	掘进 二队
+mechanic	丝杠
+mechanic	加速度 曲线
+mechanic	机械加工 精度
+mechanic	分度 圆线
+mechanic	急回 系数
+mechanic	精镗 内孔
+mechanic	力矩
+mechanic	平面 连杆机构
+mechanic	串联式 组合 机构
+mechanic	发生 线
+mechanic	空间 连杆机构
+mechanic	螺旋 密封
+mechanic	复式 螺旋 机构
+mechanic	数学模型
+mechanic	平面 磨削
+mechanic	牙型
+mechanic	回转 支承
+mechanic	余高
+mechanic	非圆 齿轮
+mechanic	有色金属
+mechanic	提升 运输
+mechanic	摩擦角
+mechanic	同步带 传动
+mechanic	擦 图片
+mechanic	周期性 速度 波动
+mechanic	等 宽 凸轮
+mechanic	凸轮
+mechanic	最小 向径
+mechanic	有效 螺纹 长度
+mechanic	摆动 从动件 凸轮 机构
+mechanic	重合 点
+mechanic	粗 虚线
+mechanic	滚子 链
+mechanic	绞孔
+mechanic	渐开线 发生 线
+mechanic	圆锥 角
+mechanic	轴向 载荷
+mechanic	盈亏 功
+mechanic	空间 机构
+mechanic	力偶矩
+mechanic	复合 轮系
+mechanic	张紧力
+mechanic	限期 整改 时间
+mechanic	变速箱
+mechanic	节锥 顶点 距
+mechanic	许用 压力 角
+mechanic	空间 运动 链
+mechanic	游标卡尺
+mechanic	反馈 式 组合
+mechanic	理论 外径
+mechanic	正平 线
+mechanic	机电 科
+mechanic	仿形法
+mechanic	螺旋线
+mechanic	矩形 牙嵌式 离合器
+mechanic	巷道 失修 率
+mechanic	螺纹 效率
+mechanic	螺纹
+mechanic	滚 道
+mechanic	曲柄 导杆 机构
+mechanic	混合 轮系
+mechanic	十字 滑块 联轴器
+mechanic	细 双点 画线
+mechanic	循环 功率 流
+mechanic	差动 螺旋 机构
+mechanic	动平衡 机
+mechanic	等效 量
+mechanic	圆柱 螺旋 扭转 弹簧
+mechanic	回转 机构
+mechanic	放大 比例
+mechanic	挠性 机构
+mechanic	特性
+mechanic	机械 运转 不 均匀 系数
+mechanic	蜗杆传动 机构
+mechanic	离心力
+mechanic	向 视图
+mechanic	节距
+mechanic	相图
+mechanic	复合 铰链
+mechanic	机械 调速
+mechanic	平衡 质量
+mechanic	蜗杆
+mechanic	工作 循环 图
+mechanic	油杯
+mechanic	上隅角
+mechanic	行星 轮
+mechanic	上旋杆
+mechanic	梯形 螺纹
+mechanic	分度 圆柱 螺旋 角
+mechanic	机械动力 设计
+mechanic	起重量
+mechanic	后角
+mechanic	惯性力 部分 平衡
+mechanic	停车 阶段
+mechanic	同步带
+mechanic	机械系统 设计
+mechanic	极限 尺寸
+mechanic	四号 图纸
+mechanic	多楔带
+mechanic	齿轮 插刀
+mechanic	公差
+mechanic	尺寸 公差
+mechanic	耐用度
+mechanic	蜗杆 形 凸轮 步进 机构
+mechanic	惯性 主矩
+mechanic	滚子 从动件
+mechanic	垫片
+mechanic	合成 切削 运动
+mechanic	冷加工
+mechanic	标准 直 齿轮
+mechanic	毛坯 图
+mechanic	球销 副
+mechanic	圆弧 圆柱 蜗杆
+mechanic	圆柱 凸轮
+mechanic	从动件
+mechanic	双 折线
+mechanic	运动 简图
+mechanic	中心 钻
+mechanic	径向 平面
+mechanic	啮合 线
+mechanic	切线
+mechanic	液压泵
+mechanic	齿 顶 圆
+mechanic	有益 阻力
+mechanic	步进 电机
+mechanic	平面 凸轮 机构
+mechanic	带 传动
+mechanic	往复式 密封
+mechanic	粗 镗 内孔
+mechanic	互换性 齿轮
+mechanic	摩擦 圆
+mechanic	平行 两 直线
+mechanic	减摩 性
+mechanic	振动 力矩
+mechanic	可靠性 设计
+mechanic	杜景森
+mechanic	对 中 符号
+mechanic	轴颈
+mechanic	滚子 轴承
+mechanic	人 字 齿轮
+mechanic	从 动轮
+mechanic	淬火
+mechanic	余弦 加速度 运动
+mechanic	最大 盈亏 功
+mechanic	粗 点画 线
+mechanic	塔轮
+mechanic	三相 交流电
+mechanic	摆线 齿轮
+mechanic	变形 力
+mechanic	组合 齿形
+mechanic	传动
+mechanic	同轴 度
+mechanic	开链 机构
+mechanic	磨床
+mechanic	动 压力
+mechanic	齿形 链
+mechanic	滚子 半径
+mechanic	减速器
+mechanic	凸 轮廓线
+mechanic	从动件 平底 宽度
+mechanic	压力 角
+mechanic	蜗杆 直径 系数
+mechanic	螺纹 导程
+mechanic	根锥角
+mechanic	波数
+mechanic	一般化 运动 链
+mechanic	导程角
+mechanic	肘形 机构
+mechanic	标准型 弹簧 垫圈
+mechanic	槽轮
+mechanic	偏置 距
+mechanic	移动 凸轮
+mechanic	工况 系数
+mechanic	移动 副
+mechanic	端面 齿 距
+mechanic	力 封闭型 凸轮 机构
+mechanic	静力学
+mechanic	理论 廓线
+mechanic	棘轮 机构
+mechanic	减压阀
+mechanic	运动 方案设计
+mechanic	惰轮
+mechanic	孔系 分布 中心线
+mechanic	机架 变换
+mechanic	滚齿
+mechanic	联轴器
+mechanic	组合 安装
+mechanic	位置 度
+mechanic	滑动 率
+mechanic	平底 刀
+mechanic	根部 半径
+mechanic	极限
+mechanic	机电 一体化 系统 设计
+mechanic	螺旋 副
+mechanic	铆钉
+mechanic	等加 等 减速运动 规律
+mechanic	加速度 分析
+mechanic	可靠性
+mechanic	换面法
+mechanic	标准件
+mechanic	机械 的 现代 设计
+mechanic	固态 相变
+mechanic	连接线 段
+mechanic	轴向 游隙
+mechanic	啮合 线 长度
+mechanic	尖底 从动件
+mechanic	飞轮 矩
+mechanic	点 焊缝
+mechanic	嵌入 键
+mechanic	径向 当量 静 载荷
+mechanic	网上 设计
+mechanic	液力 偶合器
+mechanic	滚子 链联轴
+mechanic	速度 曲线
+mechanic	圆柱 螺旋 拉伸 弹簧
+mechanic	从动 锥齿轮
+mechanic	渐开线 方程
+mechanic	动能
+mechanic	生产 阻力
+mechanic	机械动力 分析
+mechanic	外 齿轮
+mechanic	多 质量 转子
+mechanic	模块 式 传动系统
+mechanic	工件 厚度
+mechanic	行星 轮系
+mechanic	模糊 评价
+mechanic	主轴 箱
+mechanic	单列 轴承
+mechanic	断裂
+mechanic	背锥
+mechanic	升距
+mechanic	反向运动 学
+mechanic	调心 滚子 轴承
+mechanic	滑块
+mechanic	倒 轮齿
+mechanic	侧垂面
+mechanic	基圆压
+mechanic	挡板
+mechanic	耙 装机
+mechanic	不 平衡 相位
+mechanic	导程
+mechanic	车床
+mechanic	平底 宽度
+mechanic	分度 圆
+mechanic	蜗杆 蜗轮
+mechanic	双转块 机构
+mechanic	阿基米德 蜗杆
+mechanic	脱碳
+mechanic	径节
+mechanic	合成 弯矩
+mechanic	节点
+mechanic	不 完全 齿轮 机构
+mechanic	滚动轴承 代号
+mechanic	扭簧
+mechanic	有效 圆周 力
+mechanic	运动 周期
+mechanic	对心 直动 从动件
+mechanic	铁磁 流体 密封
+mechanic	弹性 套柱销 联轴器
+mechanic	构件
+mechanic	自锁
+mechanic	过渡 配合
+mechanic	可 编程序 逻辑 控制器
+mechanic	偏置 滚子 从动件
+mechanic	速度 不 均匀 波动 系数
+mechanic	静 载荷
+mechanic	多项式 运动 规律
+mechanic	刚性 轴承
+mechanic	偏置 尖底 从动件
+mechanic	展开 图
+mechanic	总 重合 度
+mechanic	原始 机构
+mechanic	齿廓 曲线
+mechanic	滚动轴承
+mechanic	蜗杆 头数
+mechanic	巷修队
+mechanic	形位 公差
+mechanic	刀具
+mechanic	计算 弯矩
+mechanic	串级 调速
+mechanic	金属 工艺学
+mechanic	名义 应力
+mechanic	斜齿 圆柱齿轮
+mechanic	圆弧 齿厚
+mechanic	键槽
+mechanic	机械
+mechanic	曲柄 滑块 机构
+mechanic	偏心 质量
+mechanic	节圆
+mechanic	并联 组合 机构
+mechanic	格拉 晓夫 定理
+mechanic	起升 机构
+mechanic	磨损
+mechanic	机器人 操作 器
+mechanic	空间 凸轮 机构
+mechanic	平带
+mechanic	螺母
+mechanic	等径 凸轮
+mechanic	偏心率
+mechanic	根切
+mechanic	节 圆锥 角
+mechanic	行星 轮 变速装置
+mechanic	当量 载荷
+mechanic	承载量 系数
+mechanic	跃度
+mechanic	运动 链
+mechanic	球面 副
+mechanic	法面 参数
+mechanic	凸轮 倒置 机构
+mechanic	回火
+mechanic	对称中心 线
+mechanic	复合式 组合
+mechanic	刚轮
+mechanic	过渡 节
+mechanic	安全监控 系统 图
+mechanic	基于 实例 设计
+mechanic	平均 压力 角
+mechanic	基本 尺寸
+mechanic	基础 节
+mechanic	钻床
+mechanic	等效 动力学 模型
+mechanic	润滑剂
+mechanic	无声 链
+mechanic	螺杆
+mechanic	关节 型 操作 器
+mechanic	矩形 螺纹
+mechanic	渐开线 齿轮
+mechanic	液压 驱动 泵
+mechanic	电动机
+mechanic	柔性 冲击
+mechanic	谐波 齿轮
+mechanic	波 发生器
+mechanic	回 风 巷道
+mechanic	保持架
+mechanic	全 剖视图
+mechanic	起始 啮合 点
+mechanic	准 双曲面 齿轮
+mechanic	中间 线段
+mechanic	从动件 停歇
+mechanic	机械 无级 变速
+mechanic	重合 度
+mechanic	焊接 图
+mechanic	跨棒 距
+mechanic	粗车 图
+mechanic	渐开线 齿廓
+mechanic	渐开线 花键
+mechanic	蜗杆 蜗轮 机构
+mechanic	输出 力矩
+mechanic	工业 造型 设计
+mechanic	轴承 寿命
+mechanic	轴瓦
+mechanic	转动 关节
+mechanic	差 动轮 系
+mechanic	主动 件
+mechanic	载荷
+mechanic	三维 凸轮
+mechanic	抛物线 运动
+mechanic	齿顶 圆线
+mechanic	气动 夹紧
+mechanic	半圆 键
+mechanic	铣床
+mechanic	结合 剂
+mechanic	液压 机构
+mechanic	质径积
+mechanic	位移
+mechanic	正弦 机构
+mechanic	公称 应力
+mechanic	智能化 设计
+mechanic	直径 系数
+mechanic	速度 瞬心
+mechanic	应力 集中
+mechanic	齿轮 联轴器
+mechanic	焊缝 有效 厚度
+mechanic	变形
+mechanic	包角
+mechanic	拉伸
+mechanic	马耳他 十字
+mechanic	偏心 距
+mechanic	凸 轮廓线 绘制
+mechanic	液力传动
+mechanic	奇异 位置
+mechanic	精车 外圆
+mechanic	千分尺
+mechanic	开式 链
+mechanic	瓦斯 检查员
+mechanic	交叉 带 传动
+mechanic	内力
+mechanic	升程
+mechanic	平底 从动件
+mechanic	十字 结 联轴节
+mechanic	齿轮 加工
+mechanic	出碴
+mechanic	扭矩
+mechanic	三号 图纸
+mechanic	一号 图纸
+mechanic	可见 棱 边线
+mechanic	完整 花键 长度
+mechanic	轴端 挡 圈
+mechanic	手动 换向阀 液压泵 站
+mechanic	龙门刨 削
+mechanic	凸面 体
+mechanic	螺旋 机构
+mechanic	工程 技术人员
+mechanic	桁架
+mechanic	迷宫 密封
+mechanic	铣削
+mechanic	流体 动力学
+mechanic	表面质量 系数
+mechanic	二号 图纸
+mechanic	曲齿 锥齿轮
+mechanic	法向 齿廓
+mechanic	机械 创新 设计
+mechanic	异面 两 直线
+mechanic	连杆
+mechanic	稳健 设计
+mechanic	方向 符号
+mechanic	标题栏
+mechanic	平面 副
+mechanic	机构 运动 设计
+mechanic	球面 滚子
+mechanic	变位 系数
+mechanic	尺寸 基准
+mechanic	攻丝
+mechanic	齿形 系数
+mechanic	气体 轴承
+mechanic	背锥角
+mechanic	工作 机构
+mechanic	工作 阻力
+mechanic	机电 一体化
+mechanic	自由度
+mechanic	螺旋 传动
+mechanic	稳定 运转 阶段
+mechanic	磁流体 轴承
+mechanic	侧 平面
+mechanic	谐波 传动
+mechanic	圆锥 滚子 轴承
+mechanic	输出 机构
+mechanic	正垂面
+mechanic	反转 法
+mechanic	环形 弹簧
+mechanic	表面 硬度
+mechanic	两维 凸轮
+mechanic	球轴承
+mechanic	孔 加工
+mechanic	广义坐标
+mechanic	摆动 导杆 机构
+mechanic	侧立 投影面
+mechanic	滚针轴承
+mechanic	急回特性
+mechanic	虚拟现实 设计
+mechanic	尺寸 界线
+mechanic	刚体 导引 机构
+mechanic	局部 自由度
+mechanic	刚性 联轴器
+mechanic	采煤 一队
+mechanic	啮入
+mechanic	套筒
+mechanic	相同 焊缝 数量 符号
+mechanic	定位 尺寸
+mechanic	副 斜井
+mechanic	耗油量 系数
+mechanic	螺钉
+mechanic	推程
+mechanic	轴承 外径
+mechanic	主 斜井
+mechanic	传动比
+mechanic	摆线 齿形
+mechanic	连杆 曲线
+mechanic	调压 调速
+mechanic	非 接触式 密封
+mechanic	工作 载荷
+mechanic	啮合角
+mechanic	操纵 及 控制 装置
+mechanic	卡盘
+mechanic	组合 机构
+mechanic	等效 质量
+mechanic	低 副
+mechanic	齿槽 宽
+mechanic	换向阀
+mechanic	齿廓
+mechanic	砂轮 越程 槽
+mechanic	套架
+mechanic	砂轮
+mechanic	圆柱 螺旋 压缩 弹簧
+mechanic	纵向 重合 度
+mechanic	直齿 圆柱齿轮
+mechanic	调速器
+mechanic	角 接触 推力 轴承
+mechanic	闭式 链
+mechanic	空间 运动 副
+mechanic	角 接触 向心 轴承
+mechanic	透老控
+mechanic	细 虚线
+mechanic	滑动轴承
+mechanic	基 圆柱
+mechanic	轴承 内径
+mechanic	尺寸 标注
+mechanic	联结
+mechanic	摆线 运动 规律
+mechanic	形状 公差
+mechanic	行星 减速器
+mechanic	圆柱 坐标 操作 器
+mechanic	耐磨性
+mechanic	疲劳强度
+mechanic	图样
+mechanic	制动器
+mechanic	开槽 锥端 紧定 螺钉
+mechanic	执行 构件
+mechanic	比例尺
+mechanic	超声 传感器
+mechanic	粗加工
+mechanic	末端 执行器
+mechanic	流体力学
+mechanic	六角 头 螺栓
+mechanic	行程 速比 系数
+mechanic	行程 速度 变化 系数
+mechanic	逯 长岭
+mechanic	盘形 凸轮
+mechanic	实际 啮合 线
+mechanic	并联式 组合
+mechanic	非周期性 速度 波动
+mechanic	齿根 圆
+mechanic	当量 摩擦系数
+mechanic	工作 阻 力矩
+mechanic	零线
+mechanic	透老巷
+mechanic	凸面 符号
+mechanic	腐蚀
+mechanic	动态分析 设计
+mechanic	失效
+mechanic	平衡 平面
+mechanic	拉孔
+mechanic	缩小 比例
+mechanic	中心 轮
+mechanic	力 平衡
+mechanic	凹面 符号
+mechanic	弹性 联轴器
+mechanic	镗床
+mechanic	外圆 磨削
+mechanic	移动 关节
+mechanic	运动 综合
+mechanic	轴向 伸缩 系数
+mechanic	转向器
+mechanic	基本 额定 寿命
+mechanic	钳工
+mechanic	机床 夹具
+mechanic	球刀
+mechanic	正切 机构
+mechanic	脉动 循环 应力
+mechanic	旋转式 密封
+mechanic	铅垂 面
+mechanic	退刀 槽
+mechanic	离心 密封
+mechanic	耙 头
+mechanic	坐标 法
+mechanic	幅面 代号
+mechanic	液压 无级 变速
+mechanic	机械制图
+mechanic	圆刀
+mechanic	并行 设计
+mechanic	疲劳 点蚀
+mechanic	对心 曲柄 滑块 机构
+mechanic	曲线 拼接
+mechanic	推力 球轴承
+mechanic	主动 锥齿轮
+mechanic	少齿 差 行星 传动
+mechanic	径向 间隙
+mechanic	周边 尺寸
+mechanic	等 份 圆周
+mechanic	位置 公差
+mechanic	对心 滚子 从动件
+mechanic	回转 体 平衡
+mechanic	轴测 图
+mechanic	弯曲应力
+mechanic	圆柱 副
+mechanic	钻削 镗 削
+mechanic	高度 系列
+mechanic	拉床
+mechanic	链传动 装置
+mechanic	机构 学
+mechanic	开槽 圆柱 头 螺钉
+mechanic	基 圆锥
+mechanic	六杆 机构
+mechanic	主 运动
+mechanic	临界 转速
+mechanic	当量 齿轮
+mechanic	向心 轴承
+mechanic	轴承 宽度
+mechanic	基圆齿 距
+mechanic	平面 轴斜 齿轮
+mechanic	渐开线 蜗杆
+mechanic	模数
+mechanic	冷作 硬化
+mechanic	隐患 单位
+mechanic	塔吊 班
+mechanic	鼓风机
+mechanic	误差 的 敏感 方向
+mechanic	撤面
+mechanic	唇形 橡胶 密封
+mechanic	机械能 守恒
+mechanic	螺纹 牙 底线
+mechanic	盘形 转子
+mechanic	细牙 螺纹
+mechanic	万向 联轴器
+mechanic	齿根 线
+mechanic	从动件 运动 规律
+mechanic	并联 机构
+mechanic	理论 装配 据
+mechanic	齿侧 间隙
+mechanic	展 成法
+mechanic	主 提升 系统
+mechanic	角 接触 轴承
+mechanic	外形尺寸
+mechanic	齿轮泵
+mechanic	等效 力矩
+mechanic	链轮
+mechanic	圆柱 滚子 轴承
+mechanic	共轭 齿廓
+mechanic	线 轮廓 度
+mechanic	沉孔
+mechanic	锥齿轮
+mechanic	转子 平衡
+mechanic	齿 顶 高
+mechanic	圆带 传动
+mechanic	全 跳动
+mechanic	端面 重合 度
+mechanic	槽轮 机构
+mechanic	无级 变速装置
+mechanic	极限 偏差
+mechanic	组成 原理
+mechanic	节锥角
+mechanic	封闭 差 动轮 系
+mechanic	节线
+mechanic	分析 力学
+mechanic	四杆 机构
+mechanic	细 实线
+mechanic	闭链 机构
+mechanic	机构 综合
+mechanic	背锥距
+mechanic	模幅箱
+mechanic	塑性变形
+mechanic	相交 两 直线
+mechanic	直齿 锥齿轮
+mechanic	形 封闭 凸轮 机构
+mechanic	淬火 冷却
+mechanic	径向 游隙
+mechanic	幅面 尺寸
+mechanic	移动 从动件
+mechanic	润滑
+mechanic	精车 图
+mechanic	直流电源
+mechanic	异步电动 机
+mechanic	减速比
+mechanic	啮合
+mechanic	安全监控
+mechanic	瓦斯 排版
+mechanic	正投影 法
+mechanic	自锁 条件
+mechanic	齿 坯 图
+mechanic	公制 齿轮
+mechanic	非 主要 尺寸
+mechanic	平衡 品质
+mechanic	工件
+mechanic	粉末 合金
+mechanic	三角形 花键
+mechanic	平带 传动
+mechanic	摩擦力
+mechanic	终止 啮合 点
+mechanic	特殊 运动 链
+mechanic	顶隙
+mechanic	安全 载荷
+mechanic	复杂 机构
+mechanic	机构 组成
+mechanic	力矩 接触器
+mechanic	车刀
+mechanic	中心 距 变动
+mechanic	起动 阶段
+mechanic	紧固件
+mechanic	齿槽
+mechanic	过渡 线
+mechanic	钩头 楔键
+mechanic	挠性 转子
+mechanic	锥距
+mechanic	机构
+mechanic	比例
+mechanic	径向 基本 额定 静 载荷
+mechanic	三心 定理
+mechanic	隐患 内容
+mechanic	平刀
+mechanic	约束 反力
+mechanic	运动学
+mechanic	杆组
+mechanic	密封 带
+mechanic	主视图
+mechanic	圆柱 蜗杆
+mechanic	圆 锥齿轮 机构
+mechanic	刚性 转子
+mechanic	急回 机构
+mechanic	脉动 载荷
+mechanic	曲率
+mechanic	扭力
+mechanic	输入 构件
+mechanic	跳动 位置 公差
+mechanic	刚度
+mechanic	直廓 环面 蜗杆
+mechanic	相贯线
+mechanic	离合器
+mechanic	平面
+mechanic	内 齿轮
+mechanic	职能 科室
+mechanic	技术 过程
+mechanic	塔吊 塔式起重 机
+mechanic	转动 导杆 机构
+mechanic	总 反力
+mechanic	均衡 装置
+mechanic	机器
+mechanic	伺服电机
+mechanic	高 副
+mechanic	铸件 壁厚
+mechanic	法面 模数
+mechanic	瓦检员
+mechanic	发生 面
