@@ -1,5 +1,4 @@
 Modifications for standard competition by Shuguang.
-
 Embedding and models folder are ignored. Embedding can be downloaded from https://pan.baidu.com/s/1XEmP_0FkQwOjipCjI2OPEw, and remember to delete the first line to get a compatible format.
 
 # AutoNER
