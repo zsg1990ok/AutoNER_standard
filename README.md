@@ -1,3 +1,5 @@
+Modifications for standard competition by Shuguang.
+
 # AutoNER
 
 **Check Our New NER Toolkit🚀🚀🚀**
