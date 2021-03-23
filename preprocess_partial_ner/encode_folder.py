@@ -112,7 +112,8 @@ def read_corpus(lines):
         if not (line.isspace() or (len(line) > 10 and line[0:10] == '-DOCSTART-')):
             line = line.rstrip('\n').split()
 
-            assert len(line) == 3, "the format of corpus"
+            #shuguang annotation
+            #assert len(line) == 3, "the format of corpus"
             # The format should be
             # 0. Token
             # 1. I/O (I means Break, O means Connected)
@@ -188,7 +189,6 @@ def encode_folder(input_folder, output_folder, w_map, c_map, cl_map, tl_map, c_t
         tmp_w.append(w_pad)
         tmp_c.append(c_pad)
         tmp_mc.append(0)
-
 
         tmp_lc = [cl_map[tup] for tup in l_c[1:]]
         tmp_mt = l_m[1:]
