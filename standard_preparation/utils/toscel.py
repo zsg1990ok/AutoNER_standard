@@ -165,7 +165,7 @@ def deal(file_name):
 if __name__ == '__main__':
  
     #将要转换的词库添加在这里就可以了
-    o = ['../../data/dictionaries/机械词汇大全.scel']
+    o = ['../dictionaries/机械词汇大全.scel']
     
     for f in o:
         deal(f)
