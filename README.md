@@ -1,6 +1,45 @@
-Modifications for standard competition by Shuguang.
-Embedding and models folder are ignored. Embedding can be downloaded from https://pan.baidu.com/s/1XEmP_0FkQwOjipCjI2OPEw, and remember to delete the first line to get a compatible format.
+AutoNER基于远程监督的实体识别工具中文适配和电力领域语料应用
+增加的文件夹和文件：
+1. autoner_train_standard.sh：主体训练脚本，执行读取语料、生成远程监督结果和训练过程；
+2. autoner_test_standard.sh：主体测试脚本，执行读取测试集和测试过程；
+3. get_ner_pos.py：后处理程序，将输出结果与原始文档形成对应，给出识别的实体和在原始文档中的位置；
+4. Standard Preparation文件夹：
+  4.1 original_standard_files文件夹：竞赛所用电力变压器37个标准文件经过OCR后导出的txt文本，分段结果还不理想；
+  4.2 converted_standard_files文件夹：
+    4.2.1 jieba文件夹：对每个标准txt进行结巴分词再按AutoNER要求格式转后的结果，单个文件即为raw_text.txt，_pos为要求格式每行在原始标准txt中的位置，单个文件即为raw_pos.txt；
+    4.2.2 single_line文件夹：将每个标准txt转换为一行的结果（本工具未使用）；
+  4.3 dictionaries文件夹：三个词库文件power/transformer/mechanic_dictionary.txt，搜狗下载的电力、变压器和机械词库，..segmented.txt，三个词库文件经结巴分词后结果，其中power_dictionary_segmented.txt即为dic_full.txt，一个带类别词库文件，即为dic_core.txt；
+  4.4 utils文件夹：
+    4.4.1 run_jieba_on_standard.py，输入4.1获得4.2.1；
+    4.4.2 run_jieba_on_dict.py，输入4.3词库txt获得segmented.txt；
+    4.4.3 toscel.py,将搜狗词库文件scel转为txt；
+    4.4.4 prepare_dic_core.py，将两个类别词库拼接获得dic_core.txt；
+    4.4.5 和 4.4.6 combine_multiple_files.py和combine_single_file.py，将标准txt转为一行（本工具未使用）。
+5. embedding/embedding.txt：更换为中文词向量。
+6. data/stopwords.txt：更换为中文停止词。
+7. models/STANDARD/result.txt：decoded.txt是AutoNER自身输出结果，本文件是映射到原始标准txt的输出结果，格式为“命名实体tab类别tab原始文件行tab行内起始位置tab终止位置”。
 
+整体使用流程：
+1.执行run_jieba_on_standard.py，获得raw_text.txt和raw_pos.txt；
+2.执行toscel.py、run_jieba_on_dict.py和prepare_dic_core.py，获得dic_full.txt和dic_core.txt;
+3.从 https://pan.baidu.com/s/1XEmP_0FkQwOjipCjI2OPEw 下载word2vec skip-gram negative sampling 300d中文词向量，删除第一行，获得embedding.txt置于embedding文件夹中，从 https://github.com/goto456/stopwords/blob/master/baidu_stopwords.txt 下载baidu_stopwords，替换data文件夹下的stopwords.txt；
+5.执行autoner_train_standard.sh，获得远程监督结果和训练模型；
+6.执行autoner_test_standard.sh，获得输出结果和准确率（目前测试集使用远程监督结果）；
+7.执行get_ner_pos.py，获得后处理的输出结果。
+
+debug记录：
+对原始AutoNER工具的代码做了如下修改，
+1. auto_ner_train.sh：修改输出模型文件夹和四个输入文件的路径，将测试集更换为远程监督结果，修改embedding维数为300；
+2. auto_ner_test.sh：修改测试路径和embedding维数。
+3. encode_folder.py：默认验证集为3段格式，实际用远程监督结果替代所以是4段，修改了代码；
+4. dataset.py：ByteTensor在最新PyTorch版本中过时，换为BoolType。
+
+结果和结论：
+1. 目前，将远程监督结果作为测试集的F1为0.648。
+2. 观察输出结果，实体标注准确率很高，召回率较低，观察远程监督结果，也存在准确率较高但召回率较低的情况。
+3. 方法比较有潜力，进一步优化需要提升（1）embedding覆盖的词数，（2）raw_text的规模，（3）dic_core的类别和词数，（4）手工标注一些验证集，帮助模型找到合适的训练停止点。
+
+---------------Original Readme-----------------
 # AutoNER
 
 **Check Our New NER Toolkit🚀🚀🚀**
