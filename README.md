@@ -20,12 +20,12 @@ AutoNER基于远程监督的实体识别工具中文适配和电力领域语料�
 7. models/STANDARD/result.txt：decoded.txt是AutoNER自身输出结果，本文件是映射到原始标准txt的输出结果，格式为“命名实体tab类别tab原始文件行tab行内起始位置tab终止位置”。
 
 整体使用流程：
-1.执行run_jieba_on_standard.py，获得raw_text.txt和raw_pos.txt；
-2.执行toscel.py、run_jieba_on_dict.py和prepare_dic_core.py，获得dic_full.txt和dic_core.txt;
-3.从 https://pan.baidu.com/s/1XEmP_0FkQwOjipCjI2OPEw 下载word2vec skip-gram negative sampling 300d中文词向量，删除第一行，获得embedding.txt置于embedding文件夹中，从 https://github.com/goto456/stopwords/blob/master/baidu_stopwords.txt 下载baidu_stopwords，替换data文件夹下的stopwords.txt；
-5.执行autoner_train_standard.sh，获得远程监督结果和训练模型；
-6.执行autoner_test_standard.sh，获得输出结果和准确率（目前测试集使用远程监督结果）；
-7.执行get_ner_pos.py，获得后处理的输出结果。
+1. 执行run_jieba_on_standard.py，获得raw_text.txt和raw_pos.txt；
+2. 执行toscel.py、run_jieba_on_dict.py和prepare_dic_core.py，获得dic_full.txt和dic_core.txt;
+3. 从 https://pan.baidu.com/s/1XEmP_0FkQwOjipCjI2OPEw 下载word2vec skip-gram negative sampling 300d中文词向量，删除第一行，获得embedding.txt置于embedding文件夹中，从 https://github.com/goto456/stopwords/blob/master/baidu_stopwords.txt 下载baidu_stopwords，替换data文件夹下的stopwords.txt；
+4. 执行autoner_train_standard.sh，获得远程监督结果和训练模型；
+5.执行autoner_test_standard.sh，获得输出结果和准确率（目前测试集使用远程监督结果）；
+6.执行get_ner_pos.py，获得后处理的输出结果。
 
 debug记录：
 对原始AutoNER工具的代码做了如下修改，
